@@ -1,3 +1,9 @@
+# demo-app1
+
+This repo powers a live demo site created by Arnott via OpenClaw. It’s a standard Next.js + Tailwind scaffold that you can extend during conversations.
+
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
